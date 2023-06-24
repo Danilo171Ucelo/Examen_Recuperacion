@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(174, 189, 189);
+    margin: 20px;
+    font-size: 25px;
+}
+th {
+ background-color: rgb(156, 206, 206);
+ color: brown;
+}
+tr{
+   background-color: rgb(182, 166, 166);
+   color: brown; 
+}
